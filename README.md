@@ -31,3 +31,8 @@ Exibe informações do usuário e suas conquistas, como o Selo Eco.
 ## Jornada do Usuário
 
 O usuário acessa o aplicativo → navega pelos itens disponíveis → seleciona um item → entra em contato com o doador → combina a retirada → conclui a doação → recebe um selo como recompensa.
+
+## Prototipo
+
+<img width="1747" height="572" alt="prototipo" src="https://github.com/user-attachments/assets/1fbdac17-6878-4c6e-9266-29c61e1fbab2" />
+
