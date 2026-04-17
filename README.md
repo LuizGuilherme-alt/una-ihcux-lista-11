@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-* Seu nome aqui
+* Luiz Guilherme, Cauã Cordeiro, João Vitor Pedrosa, Silas Caleb
 
 ## Proposta de Valor
 
